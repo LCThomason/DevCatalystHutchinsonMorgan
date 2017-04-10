@@ -1,0 +1,86 @@
+header {
+  background-color: black;
+  background: url("http://wallpapercave.com/wp/kLRFyFa.jpg");
+  max-width: 50%;
+}
+
+body {
+  background-color: white;
+  background-image: url("http://orig05.deviantart.net/2536/f/2017/090/b/1/forestnebula_background_by_hunterlxfe_db0ri7e_by_hunterlxfe-db4528n.png");
+/*  background-image: url("http://orig11.deviantart.net/a159/f/2017/090/0/c/gray_kitten_ii___low_quality_by_silvabellz_d3wl6zc_by_hunterlxfe-db45161.png");*/
+/*  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c8/ad/c5/c8adc5615e8acce1c793ee2e44082da5.jpg");*/
+  background-size: 200%;
+  background-repeat: no-repeat;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+  text-align: center;
+  text-decoration: none;
+}
+
+#aaoj {
+  text-decoration: none; 
+}
+
+h1 {
+  color: white;
+}
+
+h4 {
+  color: black;
+  background-color: white;
+  border-style: solid;
+  border-width: 3px;
+  border-color: darkred;
+  opacity: 0.8;
+}
+
+#containertheme {
+  color: black;
+  background-color: white;
+  border-style: solid;
+  border-width: 3px;
+  border-color: darkred;
+  opacity: 0.8;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+ color: lightblue;
+}
+
+a:visited {
+  color: lightgray;
+}
+
+#aboutlink:link {
+  color: darkgray;
+}
+
+#aboutlink:visited {
+  color: lightgray;
+}
+
+#meme {
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: darkred;
+  opacity: 0.8;
+}
+
+#meme:link {
+  color: darkred;
+}
+
+#meme:visited {
+  color: #af111c;
+}    border-style: solid;
+    border-width: 5px;
+
